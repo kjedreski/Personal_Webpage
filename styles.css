@@ -1,0 +1,97 @@
+
+/* left is for my divs on top of page  */
+.left
+{
+float: left;
+border-radius: 15px;
+border: 2px solid #6495ED;
+background-color: #BCD2EE;
+height: 45%;
+width: 24%;
+margin: 1px;
+text-align: center;
+position: relative;
+}
+/*controls background color of my page */
+.body {
+
+background-color: lightgrey;
+}
+
+/* when I hover my mouse over <a> text changes */
+a:hover {
+
+background-color: #FFFFEE;
+}
+
+/*controls my text format in my divs at top of page and their respective links  */
+a {
+	text-decoration: none;
+	color: #3D59AB;
+	font-family: Verdana, sans-serif;
+}
+/* controls text format in a general <p> */
+p{
+font-family: Verdana, Sans-sans-serif;
+}
+/* controls text in div tag next to my picture  */
+.bodytext
+{
+border: 1px #6495ED;
+ background-color: #FFFFEE; 
+height: 350px;
+width: 600px;
+float: left;
+text-align: center;
+font-family: sans-serif;
+margin-top: 6px;
+margin-left:170px;
+padding: 3px;
+border-radius: 29px;
+border: solid red 1px;
+}
+
+/* formats picture */
+.picture
+{
+border-radius:5px;
+border: 1px solid #6495ED;
+float: left;
+height:25%;
+width: 25%;
+margin: auto;
+}
+
+/*This aligns text properly after my title in my bodytext divs */
+.innerTextBody
+{
+ text-align: left; 
+
+}
+
+.BottomBitch
+{
+/* border: 2px solid #6495ED; */
+background-color: lightgrey;
+height: 18px;
+width: 400px;
+float: center-right;
+text-align: center;
+font-family: sans-serif;
+margin-top: 450px;
+margin-left:800px;
+padding: 5px;
+border-radius: 29px;
+color: red;
+font-family: Verdana;
+text-decoration: underline;
+
+}
+
+form
+{
+float:left;
+margin-right:800px;
+
+}
+
